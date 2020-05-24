@@ -6,6 +6,7 @@
 ---
 
 效果图
-![image]https://github.com/ChenYCL/notion-navbar/raw/maste/effect1.png)
 
-![image]https://github.com/ChenYCL/notion-navbar/raw/maste/effect2.png)
+![image](https://github.com/ChenYCL/notion-navbar/blob/master/effect1.png)
+
+![image](https://github.com/ChenYCL/notion-navbar/blob/master/effect2.png)
